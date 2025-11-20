@@ -1,0 +1,60 @@
+- online: falseadocodigo.com.br- online: truehttps://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://www.globo.com.br - online: false
+https://www.casadocodigo.com.br - online: true
+ - online: false
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://www.globo.com.br - online: false
+https://www.casadocodigo.com.br - online: true
+ - online: false
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://www.globo.com.br - online: false
+https://www.casadocodigo.com.br - online: true
+ - online: false
+19/11/2025 23:47:39 - https://www.alura.com.br - online: true
+19/11/2025 23:47:39 - https://www.caelum.com.br - online: true
+19/11/2025 23:47:39 - https://www.globo.com.br - online: false
+19/11/2025 23:47:39 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:47:39 -  - online: false
+19/11/2025 23:47:44 - https://www.alura.com.br - online: true
+19/11/2025 23:47:45 - https://www.caelum.com.br - online: true
+19/11/2025 23:47:45 - https://www.globo.com.br - online: false
+19/11/2025 23:47:45 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:47:45 -  - online: false
+19/11/2025 23:47:50 - https://www.alura.com.br - online: true
+19/11/2025 23:47:50 - https://www.caelum.com.br - online: true
+19/11/2025 23:47:50 - https://www.globo.com.br - online: false
+19/11/2025 23:47:51 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:47:51 -  - online: false
+19/11/2025 23:52:07 - https://www.alura.com.br - online: true
+19/11/2025 23:52:07 - https://www.caelum.com.br - online: true
+19/11/2025 23:52:07 - https://www.globo.com.br - online: false
+19/11/2025 23:52:07 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:52:07 -  - online: false
+19/11/2025 23:52:13 - https://www.alura.com.br - online: true
+19/11/2025 23:52:13 - https://www.caelum.com.br - online: true
+19/11/2025 23:52:13 - https://www.globo.com.br - online: false
+19/11/2025 23:52:13 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:52:13 -  - online: false
+19/11/2025 23:52:18 - https://www.alura.com.br - online: true
+19/11/2025 23:52:18 - https://www.caelum.com.br - online: true
+19/11/2025 23:52:19 - https://www.globo.com.br - online: false
+19/11/2025 23:52:19 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:52:19 -  - online: false
+19/11/2025 23:53:18 - https://www.alura.com.br - online: true
+19/11/2025 23:53:18 - https://www.caelum.com.br - online: true
+19/11/2025 23:53:18 - https://www.globo.com.br - online: false
+19/11/2025 23:53:18 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:53:18 -  - online: false
+19/11/2025 23:53:23 - https://www.alura.com.br - online: true
+19/11/2025 23:53:24 - https://www.caelum.com.br - online: true
+19/11/2025 23:53:24 - https://www.globo.com.br - online: false
+19/11/2025 23:53:24 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:53:24 -  - online: false
+19/11/2025 23:53:29 - https://www.alura.com.br - online: true
+19/11/2025 23:53:29 - https://www.caelum.com.br - online: true
+19/11/2025 23:53:29 - https://www.globo.com.br - online: false
+19/11/2025 23:53:30 - https://www.casadocodigo.com.br - online: true
+19/11/2025 23:53:30 -  - online: false
